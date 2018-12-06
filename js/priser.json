@@ -1,0 +1,187 @@
+[
+	{
+		"category": "klipning",
+		"name": "Luksus dameklip + vask",
+		"price": "650"
+    },
+	{
+		"category": "klipning",
+		"name": "Alm. dameklip + vask",
+		"price": "450"
+    },
+	{
+		"category": "klipning",
+		"name": "Herreklip + vask",
+		"price": "395"
+    },
+	{
+		"category": "klipning",
+		"name": "Børneklip 0-7 år",
+		"price": "220"
+    },
+	{
+		"category": "klipning",
+		"name": "Maskinklip",
+		"price": "185"
+    },
+	{
+		"category": "klipning",
+		"name": "Vask",
+		"price": "40"
+    },
+	{
+		"category": "klipning",
+		"name": "Vask + føn",
+		"price": "265"
+    },
+	{
+		"category": "klipning",
+		"name": "Vask + finger føn",
+		"price": "170"
+    },
+	{
+		"category": "klipning",
+		"name": "Pandehår",
+		"price": "85"
+    },
+	{
+		"category": "klipning",
+		"name": "Miniføn",
+		"price": "50"
+    },
+	{
+		"category": "reflekser",
+		"name": "Kort",
+		"price": "530"
+    },
+	{
+		"category": "reflekser",
+		"name": "Mellemlangt",
+		"price": "650"
+    },
+	{
+		"category": "reflekser2",
+		"name": "Kort",
+		"price": "530"
+    },
+	{
+		"category": "reflekser2",
+		"name": "Mellemlangt",
+		"price": "650"
+    },
+	{
+		"category": "reflekser2",
+		"name": "Langt",
+		"price": "880"
+    },
+	{
+		"category": "reflekser2",
+		"name": "-Tillæg for ekstra langt/tykt hår",
+		"price": "200 - 300"
+    },
+	{
+		"category": "farvning",
+		"name": "Farve + toning + glansvask",
+		"price": "460"
+    },
+	{
+		"category": "farvning",
+		"name": "-Tillæg for langt hår",
+		"price": "200-400"
+    },
+	{
+		"category": "farvning",
+		"name": "Forpigmentering kort hår",
+		"price": "530"
+    },
+	{
+		"category": "farvning",
+		"name": "-Tillæg for langt hår",
+		"price": "650"
+    },
+	{
+		"category": "farvning",
+		"name": "Afblegning af spidser på herrer",
+		"price": "350"
+    },
+	{
+		"category": "farvning",
+		"name": "Smartblond behandling inkl. conditioner",
+		"price": "350"
+    },
+	{
+		"category": "farvning",
+		"name": "Kort hår",
+		"price": "425"
+    },
+	{
+		"category": "farvning",
+		"name": "Langt hår",
+		"price": "575"
+    },
+	{
+		"category": "permanent",
+		"name": "Permanent uden klip og føn",
+		"price": "700"
+    },
+	{
+		"category": "permanent",
+		"name": "Permanent inkl. klip og føn",
+		"price": "1065"
+    },
+	{
+		"category": "permanent",
+		"name": "-Tillæg for langt hår",
+		"price": "215"
+    },
+	{
+		"category": "permanent",
+		"name": "Udtrækning af krøller",
+		"price": "520"
+    },
+	{
+		"category": "permanent",
+		"name": "-Tillæg for langt hår",
+		"price": "210"
+    },
+	{
+		"category": "andet",
+		"name": "Skæg",
+		"price": "100"
+    },
+	{
+		"category": "andet",
+		"name": "Vipper",
+		"price": "95"
+    },
+	{
+		"category": "andet",
+		"name": "Bryn",
+		"price": "65"
+    },
+	{
+		"category": "andet",
+		"name": "Retning af bryn m pincet",
+		"price": "70"
+    },
+	{
+		"category": "andet",
+		"name": "Retning af bryn m barberblad",
+		"price": "25"
+    },
+	{
+		"category": "andet",
+		"name": "Fladjern",
+		"price": "115"
+    },
+	{
+		"category": "andet",
+		"name": "2 trins kur",
+		"price": "209"
+    },
+	{
+		"category": "andet",
+		"name": "Special shampoo behandling",
+		"price": "105"
+    }
+]

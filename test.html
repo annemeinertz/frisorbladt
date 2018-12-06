@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<!-- custom stylesheet -->
+	<link rel="stylesheet" href="css/google-places.css">	<link rel="stylesheet" href="https://rawgit.com/peledies/google-places/master/google-places.css">
+	<script type="text/javascript" src="js/google-places.js"></script>
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+	<script src="https://rawgit.com/peledies/google-places/master/google-places.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=places"></script>
+
+	<title>Frisør Bladt - Forside</title>
+
+
+</head>
+
+<body>
+	<div id="google-reviews"></div>
+
+	<!-- jQuery first, then Popper.js, then Bootstrap JS, then your custom main.js file -->
+	<script>
+		$(document).ready(function() {
+
+			$("#google-reviews").googlePlaces({
+				placeId: 'ChIJbQuckJY_TEYR_aLOnb_-SYM',
+				render: ['reviews'],
+				min_rating: 4,
+				max_rows: 1,
+				shorten_names: false,
+				schema: {
+					displayElement: "",
+					type: 'Hostel',
+					beforeText: 'Google Users Have Rated',
+					middleText: 'based on',
+					afterText: 'ratings and reviews'
+				},
+				address: {
+					displayElement: "#custom-address-id"
+				}
+			});
+
+		});
+	</script>
+
+</body>
+
+</html>
